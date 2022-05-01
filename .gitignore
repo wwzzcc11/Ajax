@@ -1,0 +1,4 @@
+# Project exclude paths
+/ajax/target/
+/jason/target/
+/out/
